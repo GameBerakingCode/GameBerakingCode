@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @GameBerakingCode
+- 👀 I’m interested in Minecraft Modding
+- 🌱 I’m currently learning how to mod
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I moded befor with MCreator but it had to less opportunities to make a mod so I am trying to learn real modding.
